@@ -1,8 +1,8 @@
 
 ## Hey there! I'm Dalya 👋  
-I’m a data analyst with roots in sales, marketing, customer-centric service, and entrepreneurship. For over five years, I ran my own skincare business—and it was there I fell in love with the power of data. Whether I was tracking booking patterns or testing marketing campaigns, I was constantly turning numbers into strategies. That curiosity led me here, where I now focus on uncovering insights that drive better business decisions.
+I’m a data analyst with roots in sales, marketing, customer-centric service, and entrepreneurship. For over five years, I ran my own skincare business, and it was there I fell in love with the power of data. Whether I was tracking booking patterns, optimizing operations, or testing marketing campaigns, I was constantly turning numbers into strategies. That curiosity led me to pursue analytics more intentionally, where I now focus on uncovering insights that drive better business decisions.
 
-In 2025, I joined the TripleTen Business Intelligence Analytics program, building on my Google Data Analytics Professional Certificate. Along the way, I’ve sharpened my skills in 
+In 2025, I joined the TripleTen Business Intelligence Analytics program, building on my Google Data Analytics Professional Certificate. Along the way, I’ve sharpened my skills in: 
 - Spreadsheets (Excel, Google Sheets)
 - SQL (Postgres, MySQL, BigQuery)
 - Data visualization (Tableau, Power BI)
