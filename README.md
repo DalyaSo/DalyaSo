@@ -10,18 +10,36 @@ In 2025, I joined the TripleTen Business Intelligence Analytics program, buildin
 - Business metrics (Funnel and Cohort Analysis, User Segments
 - Data storytelling
 
+## 📁 Highlighted Projects by Tool
 
-## 📁 Highlighted Projects
+### 🧮 R & R Markdown
 
-- 🧠 **Customer Segmentation:** RFM analysis + Tableau dashboard  
-  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato_Customer_Segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
-
-
-- ⚾ **MLB Home Run Analysis:** R + ggplot2 to analyze 150+ years of power hitter trends  
+- ⚾ **MLB Home Run Analysis:** Long-term power hitter trends across positions using R  
   → [View Project](https://github.com/DalyaSo/Data_Projects_Personal/tree/main/mlb-home-run-analysis)
 
-- 🛍 **Superstore Sales Analysis:** Retail insights + seasonality via R + Tableau  
+- 🛍 **Superstore Sales Analysis:** Retail insights, trendlines, and seasonality using R + Tableau  
   → [View Project](https://github.com/DalyaSo/Data_Projects_Personal/tree/main/superstore-sales-analysis) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/SuperstoreSalesMonitor/Dashboard1)
+
+
+
+### 📊 Tableau
+
+- 🧠 **Customer Segmentation:** RFM scoring and user behavior analysis visualized in Tableau  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato_Customer_Segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
+
+- 🔍 **Return Cause Dashboard:** Root cause analysis of product returns via interactive Tableau dashboard  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Return_Cause_Analysis)
+
+
+
+### 📈 Excel / Google Sheets
+
+- 👥 **Cohort Analysis:** Excel-based retention cohort study using pivot tables and formulas  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Cohort_Analysis)
+
+- 🏘 **Rental Market Analysis:** ROI and rental yield modeling in Google Sheets  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Rental_Market_Analysis)
+
 
 Check out my repos below to explore more!
 
