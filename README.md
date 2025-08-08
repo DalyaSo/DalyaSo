@@ -48,6 +48,7 @@ Data Visualization · Business Analytics · User Behavior Insights · Problem So
 
 📄 [View My Resume](https://docs.google.com/document/d/1__BjBZNdEdzZwglkZYnPurL69lSgW1B4-WJvTYCPRB4/edit?usp=sharing)  
 💼 [LinkedIn](https://www.linkedin.com/in/dalyasohl/)  
-📫 Reach out here or on LinkedIn—I’m open to freelance projects, full-time data roles, and collaborations!
 📊 [Tableau Public](https://public.tableau.com/app/profile/dalya.s/vizzes)  
 📚 [Kaggle](https://www.kaggle.com/dalyas)
+
+📫 Reach out here or on LinkedIn—I’m open to freelance projects, full-time data roles, and collaborations!
