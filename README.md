@@ -10,10 +10,17 @@ In 2025, I joined the TripleTen Business Intelligence Analytics program, buildin
 - Business metrics (Funnel and Cohort Analysis, User Segments
 - Data storytelling
 
-Some recent projects I’ve worked on:
-- 🏙 A rental market investment analysis using Google Sheets  
-- 📉 A root cause returns dashboard in Tableau  
-- 📊  A sales performance deep dive using R and Tableau  
+
+## 📁 Highlighted Projects
+
+- 🧠 **Customer Segmentation & Behavior Analysis:** RFM segmentation + Tableau dashboard  
+  → [View Project](https://github.com/DalyaSo/Data_Projects_TripleTen/tree/main/zomato-customer-segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
+
+- ⚾ **MLB Home Run Analysis:** R + ggplot2 to analyze 150+ years of power hitter trends  
+  → [View Project](https://github.com/DalyaSo/Data_Projects_Personal/tree/main/mlb-home-run-analysis)
+
+- 🛍 **Superstore Sales Analysis:** Retail insights + seasonality via R + Tableau  
+  → [View Project](https://github.com/DalyaSo/Data_Projects_Personal/tree/main/superstore-sales-analysis) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/SuperstoreSalesMonitor/Dashboard1)
 
 Check out my repos below to explore more!
 
