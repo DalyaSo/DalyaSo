@@ -13,8 +13,9 @@ In 2025, I joined the TripleTen Business Intelligence Analytics program, buildin
 
 ## 📁 Highlighted Projects
 
-- 🧠 **Customer Segmentation & Behavior Analysis:** RFM segmentation + Tableau dashboard  
-  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato-Customer-Segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
+- 🧠 **Customer Segmentation:** RFM analysis + Tableau dashboard  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato_Customer_Segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
+
 
 - ⚾ **MLB Home Run Analysis:** R + ggplot2 to analyze 150+ years of power hitter trends  
   → [View Project](https://github.com/DalyaSo/Data_Projects_Personal/tree/main/mlb-home-run-analysis)
