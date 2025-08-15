@@ -25,7 +25,7 @@ In 2025, I joined the TripleTen Business Intelligence Analytics program, buildin
 ### 📊 Tableau
 
 - 🧠 **Customer Segmentation:** RFM scoring and user behavior analysis visualized in Tableau  
-  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato_Customer_Segmentation) · [View Dashboard](https://public.tableau.com/app/profile/dalya.s/viz/ZomatoCustomerSegmentationDashboard/Dashboard2)
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zomato_Customer_Segmentation) · [View Dashboard](https://public.tableau.com/views/Final_Project_17551981797320/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - 🔍 **Return Cause Dashboard:** Root cause analysis of product returns via interactive Tableau dashboard  
   → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Return_Cause_Analysis)
