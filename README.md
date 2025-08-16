@@ -41,6 +41,16 @@ In 2025, I joined the TripleTen Business Intelligence Analytics program, buildin
   → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Rental_Market_Analysis)
 
 
+### 🗄 SQL
+
+- 🚕 **Zuber SQL Case Study:** Ride-hailing performance and weather impact analysis using SQL  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Zuber_SQL_Case_Study)
+
+- 📈 **Startup Trends SQL Case Study:** Analysis of startup success factors and funding patterns  
+  → [View Project](https://github.com/DalyaSo/Data_projects_TripleTen/tree/main/Startup_Trends_SQL)
+
+
+
 Check out my repos below to explore more!
 
 ## 🧠 Core Skills
